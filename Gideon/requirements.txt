@@ -1,0 +1,10 @@
+vosk
+sounddevice
+porcupine
+coqui-tts
+requests
+kivy
+apscheduler
+yt-dlp
+python-vlc
+openai 
