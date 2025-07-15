@@ -1,7 +1,3 @@
-vosk
-sounddevice
-porcupine
-coqui-tts
 requests
 kivy
 apscheduler
