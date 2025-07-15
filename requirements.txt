@@ -1,5 +1,4 @@
 requests
-kivy
 apscheduler
 yt-dlp
 python-vlc
